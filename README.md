@@ -12,12 +12,11 @@ while(!Died) {
     Me.Learn("GameDev 🎮", "WebDev 🌐", "AI/ML 🤖");  //   More to come hehe ... 👨🏻‍💻 
     Me.Play("Cyberpunk 2077 🌆");                      //   Still buggy, but it's cool      m̸̛̫̤̮̙͈̘̼͔͎̮̺̀̉͊̍́͐́̄̇̍͛́̈́̿̏̓̃̑̋̚͜͜ͅá̵̳̜̦͙̥̜̼̬̙̭̘̈́̿̑́̿͆͐̀ͅͅt̶̡̛̬̦͙̻͉͔̺͗̉̀͐̓̍̊̾̌̈̀̍̀̒͛̒͝͝ͅr̸̡̧̦̘̖̬͇̮̺̿̏͌̃̾̍͜͝i̸̡̯̦̹̫͚̗̟̗͕̿̂́̌̑̆̈́̐͂͊̅́͒̑͝͝x̴̤̮̰̥̦̗͛
     Me.Fantasize("AKIRA 🏍️");                          //   Movie adaptation != Comics ⚠️
-
-    Me.Ş̵̹̣̟͐̎̐͠l̷̨̥̰͎̼̼͔͉̋͛̔̔͂͊̒̽̇ę̷̡̛̦̹̫̪͚͚̓e̴͚̻̘̖̣͇̹̊́͐͋̀͗͝ͅp̴̢̨̣̰͚̙͔̺̅͂̔͌(̴̺͈̋̈́͒͋̈́̽̔͗̚)̸̧͉̮̩͉̪̪̍̀̂̑̂̇;;
+    Me.Sleep();
 }
 ```
 
-### Connect with me 🤝:
+> ### Connect with me 🤝:
 
 [<img align="left" alt="Timothyoung | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1641011237~hmac=d72138cabdfd4afaefa218474fefe1b3" />][linkedin]
 [<img align="left" alt="Timothyoung | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1641011325~hmac=1149f02d498c658158fc858cf8b1bf8f" />][twitter]
@@ -25,8 +24,9 @@ while(!Died) {
 [<img align="left" alt="Timothyoung | Facebook" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670124.png?token=exp=1641011600~hmac=114b63b6fdd177b422f701d66bb95787" />][facebook]
 
 <br />
+<br />
 
-### Languages and Tools:
+> ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
@@ -41,28 +41,28 @@ while(!Died) {
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
 
-### 📕 Latest Blog Posts
+> ### 📕 [Latest Blog Posts](https://dev.to/timothyoung97)
 
 <!-- BLOG-POST-LIST:START -->
 - [Git Commands!](https://dev.to/timothyoung97/git-commands-3pkh)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/timothyoung97)
-
 ---
 
-### ⚡GitHub Stats
+> ### ⚡ GitHub Stats
 
 <details>
   <summary>♾️📶🆙</summary>
 
   [![wakatime](https://wakatime.com/badge/user/ef7a035f-bf99-4a44-afa7-b137c4dd5373.svg)](https://wakatime.com/@ef7a035f-bf99-4a44-afa7-b137c4dd5373)
+    
   [![Timothyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timothyoung97&count_private=true&show_icons=true&theme=blue-green)]()
+    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyoung97&theme=blue-green&count_private=true)]()
+    
   [![Timothyoung's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Timothyoung97)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
