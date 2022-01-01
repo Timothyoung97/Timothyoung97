@@ -73,6 +73,8 @@ while(!Died) {
     <code><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Timothyoung97&theme=blue-green&count_private=true&show_icons=true" /></code>
   </p>
 
+<!--START_SECTION:activity-->
+
 </details>
 
 [facebook]: https://www.facebook.com/TimYoung97
