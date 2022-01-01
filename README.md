@@ -52,20 +52,25 @@ while(!Died) {
 
 ---
 
-> ### ⚡ GitHub Stats
+> ### ⚡ GitHub Stats Panel
 
 <details>
   <summary>♾️📶🆙</summary>
 
   <br></br>
-
-  [![wakatime](https://wakatime.com/badge/user/ef7a035f-bf99-4a44-afa7-b137c4dd5373.svg)](https://wakatime.com/@Timothyoung97)
-    
-  [![Timothyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timothyoung97&count_private=true&show_icons=true&theme=blue-green)](https://wakatime.com/@Timothyoung97)
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyoung97&theme=blue-green&count_private=true)](https://wakatime.com/@Timothyoung97)
-    
-  [![Timothyoung's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Timothyoung97&theme=blue-green&count_private=true&show_icons=true)](https://wakatime.com/@Timothyoung97)
+  
+  <p align="center">
+    <a href="https://wakatime.com/@ef7a035f-bf99-4a44-afa7-b137c4dd5373"><img src="https://wakatime.com/badge/user/ef7a035f-bf99-4a44-afa7-b137c4dd5373.svg" alt="Total time coded since Jan 2 2022" /></a>
+  </p>
+  
+  <p align="center">
+    <code><img align="center" src="https://github-readme-stats.vercel.app/api?username=Timothyoung97&count_private=true&show_icons=true&theme=blue-green" /></code>
+    <code><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyoung97&theme=blue-green&count_private=true" /></code>
+  </p>  
+  
+  <p align="center">
+    <code><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Timothyoung97&theme=blue-green&count_private=true&show_icons=true" /></code>
+  </p>
 
 </details>
 
