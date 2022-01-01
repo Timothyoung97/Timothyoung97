@@ -16,7 +16,7 @@ while(!Died) {
 }
 ```
 
-> ### Connect with me 🤝:
+> ### 🤝 Connect with me:
 
 [<img align="left" alt="Timothyoung | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1641011237~hmac=d72138cabdfd4afaefa218474fefe1b3" />][linkedin]
 [<img align="left" alt="Timothyoung | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1641011325~hmac=1149f02d498c658158fc858cf8b1bf8f" />][twitter]
@@ -26,7 +26,7 @@ while(!Died) {
 <br />
 <br />
 
-> ### Languages and Tools:
+> ### ⚒️ Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
@@ -57,13 +57,15 @@ while(!Died) {
 <details>
   <summary>♾️📶🆙</summary>
 
-  [![wakatime](https://wakatime.com/badge/user/ef7a035f-bf99-4a44-afa7-b137c4dd5373.svg)](https://wakatime.com/@ef7a035f-bf99-4a44-afa7-b137c4dd5373)
+  <br></br>
+
+  [![wakatime](https://wakatime.com/badge/user/ef7a035f-bf99-4a44-afa7-b137c4dd5373.svg)](https://wakatime.com/@Timothyoung97)
     
-  [![Timothyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timothyoung97&count_private=true&show_icons=true&theme=blue-green)]()
+  [![Timothyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timothyoung97&count_private=true&show_icons=true&theme=blue-green)](https://wakatime.com/@Timothyoung97)
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyoung97&theme=blue-green&count_private=true)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyoung97&theme=blue-green&count_private=true)](https://wakatime.com/@Timothyoung97)
     
-  [![Timothyoung's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Timothyoung97)](https://github.com/anuraghazra/github-readme-stats)
+  [![Timothyoung's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Timothyoung97&theme=blue-green&count_private=true&show_icons=true)](https://wakatime.com/@Timothyoung97)
 
 </details>
 
