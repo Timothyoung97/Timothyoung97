@@ -19,8 +19,8 @@ while(!Died) {
 
 ### Connect with me 🤝:
 
-[<img align="left" alt="Timothyoung | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1641011325~hmac=1149f02d498c658158fc858cf8b1bf8f" />][twitter]
 [<img align="left" alt="Timothyoung | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1641011237~hmac=d72138cabdfd4afaefa218474fefe1b3" />][linkedin]
+[<img align="left" alt="Timothyoung | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1641011325~hmac=1149f02d498c658158fc858cf8b1bf8f" />][twitter]
 [<img align="left" alt="Timothyoung | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" />][email]
 [<img align="left" alt="Timothyoung | Facebook" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670124.png?token=exp=1641011600~hmac=114b63b6fdd177b422f701d66bb95787" />][facebook]
 
