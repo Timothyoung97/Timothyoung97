@@ -50,6 +50,7 @@ while(!Died) {
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Commands!](https://dev.to/timothyoung97/git-commands-3pkh)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
