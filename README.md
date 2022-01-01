@@ -45,35 +45,29 @@ while(!Died) {
 
 ---
 
-<br />
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Git Commands!](https://dev.to/timothyoung97/git-commands-3pkh)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://dev.to/timothyoung97)
 
 ---
 
+### ⚡GitHub Stats
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>♾️📶🆙</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  [![wakatime](https://wakatime.com/badge/user/ef7a035f-bf99-4a44-afa7-b137c4dd5373.svg)](https://wakatime.com/@ef7a035f-bf99-4a44-afa7-b137c4dd5373)
+  [![Timothyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timothyoung97&count_private=true&show_icons=true&theme=blue-green)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyoung97&theme=blue-green&count_private=true)]()
+  [![Timothyoung's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Timothyoung97)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 [facebook]: https://www.facebook.com/TimYoung97
 [email]: mailto:e0518553@u.nus.edu
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/timothyoung97
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/shiyuan-yang97/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
