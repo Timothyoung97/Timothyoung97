@@ -1,6 +1,6 @@
 ### 👋 Hello there! I'm Timothy Young
 
-## 📟 I'm a CS sophomore @ NUS SoC 
+## 📟 I'm a CS Sophomore @ NUS SoC 
 
 ```java
 MatrixObject Me = new Person("Timothy Young", 1997);
