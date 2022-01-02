@@ -1,6 +1,6 @@
 ### 👋 Hello there! I'm Timothy Young
 
-[![Spotify](https://novatorem-timothyoung97.vercel.app/api/spotify)](https://open.spotify.com/user/31qd72w5v25ss2gn6tpaoaenqfru)
+[![Spotify](https://spotify-stats-timothyoung97.vercel.app/api/spotify)](https://open.spotify.com/user/31qd72w5v25ss2gn6tpaoaenqfru)
 
 ## 📟 I'm a CS Sophomore @ NUS SoC 
 
