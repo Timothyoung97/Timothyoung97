@@ -92,6 +92,84 @@ while(!Died) {
 --- 
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2020%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-173-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 22 Contributions in the Year 2022
+ > 
+> 📦 92.2 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+🌆 Daytime    127 commits    █████████░░░░░░░░░░░░░░░░   39.44% 
+🌃 Evening    79 commits     ██████░░░░░░░░░░░░░░░░░░░   24.53% 
+🌙 Night      73 commits     █████░░░░░░░░░░░░░░░░░░░░   22.67%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
+Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
+Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.07% 
+Friday       74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.98% 
+Saturday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Sunday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Java                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
+
+
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
     
 </details>
