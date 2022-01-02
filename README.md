@@ -89,9 +89,10 @@ while(!Died) {
     <code><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Timothyoung97&theme=blue-green&count_private=true&show_icons=true" /></code>
   </p>
 
-<!--START_SECTION:waka-->
-
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [facebook]: https://www.facebook.com/TimYoung97
 [email]: mailto:e0518553@u.nus.edu
