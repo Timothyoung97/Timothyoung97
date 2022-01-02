@@ -1,8 +1,10 @@
 ### 👋 Hello there! I'm Timothy Young
 
+🎧 _Vibe with me_ 🎺
+
 [![Spotify](https://spotify-stats-timothyoung97.vercel.app/api/spotify)](https://open.spotify.com/user/31qd72w5v25ss2gn6tpaoaenqfru)
 
-## 📟 I'm a CS Sophomore @ NUS SoC 
+> ## 📟 I'm a CS Sophomore @ NUS SoC 
 
 ```java
 MatrixObject Me = new Person("Timothy Young", 1997);
@@ -44,8 +46,7 @@ while(!Died) {
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
----
+<br />
 
 > ### 📕 [Latest Blog Posts](https://dev.to/timothyoung97)
 
@@ -82,16 +83,6 @@ while(!Died) {
 ---
 
 <h4><i>Wakatime Stats</i></h2>
-
-  <p align="center">
-    <a href="https://wakatime.com/@ef7a035f-bf99-4a44-afa7-b137c4dd5373"><img src="https://wakatime.com/badge/user/ef7a035f-bf99-4a44-afa7-b137c4dd5373.svg" alt="Total time coded since Jan 2 2022" /></a>
-  </p>
-  
-  <p align="center">
-    <code><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Timothyoung97&theme=blue-green&count_private=true&show_icons=true" /></code>
-  </p>
-
---- 
     
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2020%20mins-blue)
