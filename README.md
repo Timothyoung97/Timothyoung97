@@ -4,7 +4,7 @@
 
 [![Spotify](https://spotify-stats-timothyoung97.vercel.app/api/spotify)](https://open.spotify.com/user/31qd72w5v25ss2gn6tpaoaenqfru)
 
-> ## 📟 I'm a CS Sophomore @ NUS SoC 
+## 📟 I'm a CS Sophomore @ NUS SoC 
 
 ```java
 MatrixObject Me = new Person("Timothy Young", 1997);
@@ -54,9 +54,7 @@ while(!Died) {
 - [Git Commands!](https://dev.to/timothyoung97/git-commands-3pkh)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-> ### ⚡ GitHub Stats Panel
+## ⚡ GitHub Stats Panel
 
 <details>
   <summary>♾️📶🆙</summary>
