@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm Timothy Young
+## 👋 Hello there! I'm Timothy Young
 
 🎧 _Vibe with me_ 🎺
 
