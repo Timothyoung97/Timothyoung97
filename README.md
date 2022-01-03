@@ -62,11 +62,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/Timothyoung97/pe/issues/10) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
-2. ❗️ Opened issue [#9](https://github.com/Timothyoung97/pe/issues/9) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
-3. ❗️ Opened issue [#8](https://github.com/Timothyoung97/pe/issues/8) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
-4. ❗️ Opened issue [#7](https://github.com/Timothyoung97/pe/issues/7) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
-5. ❗️ Opened issue [#6](https://github.com/Timothyoung97/pe/issues/6) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
+1. ❗️ Opened issue [#1](https://github.com/Timothyoung97/Timothyoung97/issues/1) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
+2. ❗️ Opened issue [#10](https://github.com/Timothyoung97/pe/issues/10) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
+3. ❗️ Opened issue [#9](https://github.com/Timothyoung97/pe/issues/9) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
+4. ❗️ Opened issue [#8](https://github.com/Timothyoung97/pe/issues/8) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
+5. ❗️ Opened issue [#7](https://github.com/Timothyoung97/pe/issues/7) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
 <!--END_SECTION:activity-->
 
 ---
