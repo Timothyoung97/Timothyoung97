@@ -20,7 +20,7 @@ while(!Died) {
 }
 ```
 
-> ### 🤝 Connect with me:
+> ### 🤝🏼 Connect with me:
 
 [<img align="left" alt="Timothyoung | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1641222577~hmac=991f6816216e99bdf2e820f7c0f769b5" />][linkedin]
 [<img align="left" alt="Timothyoung | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1641011325~hmac=1149f02d498c658158fc858cf8b1bf8f" />][twitter]
