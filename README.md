@@ -22,10 +22,10 @@ while(!Died) {
 
 > ### 🤝🏼 Connect with me:
 
-[<img align="left" alt="Timothyoung | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1641222577~hmac=991f6816216e99bdf2e820f7c0f769b5" />][linkedin]
-[<img align="left" alt="Timothyoung | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1641011325~hmac=1149f02d498c658158fc858cf8b1bf8f" />][twitter]
-[<img align="left" alt="Timothyoung | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" />][email]
-[<img align="left" alt="Timothyoung | Facebook" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670124.png?token=exp=1641011600~hmac=114b63b6fdd177b422f701d66bb95787" />][facebook]
+[<img align="left" alt="Timothyoung | LinkedIn" width="22px" src="public\linkedin.png" />][linkedin]
+[<img align="left" alt="Timothyoung | Twitter" width="22px" src="public\twitter.png" />][twitter]
+[<img align="left" alt="Timothyoung | Email" width="22px" src="public\email.png" />][email]
+[<img align="left" alt="Timothyoung | Facebook" width="22px" src="public\facebook.png" />][facebook]
 
 <br />
 <br />
@@ -177,3 +177,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 [email]: mailto:e0518553@u.nus.edu
 [twitter]: https://twitter.com/timothyoung97
 [linkedin]: https://www.linkedin.com/in/shiyuan-yang97/
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
