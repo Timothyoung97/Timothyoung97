@@ -62,8 +62,8 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Timothyoung97/Timothyoung97/issues/2) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
-2. 💪 Opened PR [#11](https://github.com/NUS-Accessibility-Mapping/website/pull/11) in [NUS-Accessibility-Mapping/website](https://github.com/NUS-Accessibility-Mapping/website)
+1. ❗️ Closed issue [#2](https://github.com/Timothyoung97/Timothyoung97/issues/2) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
+2. ❗️ Opened issue [#2](https://github.com/Timothyoung97/Timothyoung97/issues/2) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
 3. ❗️ Opened issue [#1](https://github.com/Timothyoung97/Timothyoung97/issues/1) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
 4. ❗️ Opened issue [#10](https://github.com/Timothyoung97/pe/issues/10) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
 5. ❗️ Opened issue [#9](https://github.com/Timothyoung97/pe/issues/9) in [Timothyoung97/pe](https://github.com/Timothyoung97/pe)
