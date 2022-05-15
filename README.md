@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Timothyoung97/KAZEngine/issues/2) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
-2. 🗣 Commented on [#2](https://github.com/Timothyoung97/KAZEngine/issues/2) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
-3. 🗣 Commented on [#1](https://github.com/Timothyoung97/KAZEngine/issues/1) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
-4. ❗️ Opened issue [#2](https://github.com/Timothyoung97/KAZEngine/issues/2) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
-5. 🎉 Merged PR [#1](https://github.com/Timothyoung97/KAZEngine/pull/1) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
+1. ❌ Closed PR [#2112](https://github.com/glfw/glfw/pull/2112) in [glfw/glfw](https://github.com/glfw/glfw)
+2. 💪 Opened PR [#2112](https://github.com/glfw/glfw/pull/2112) in [glfw/glfw](https://github.com/glfw/glfw)
+3. ❗️ Closed issue [#2](https://github.com/Timothyoung97/KAZEngine/issues/2) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
+4. 🗣 Commented on [#2](https://github.com/Timothyoung97/KAZEngine/issues/2) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
+5. 🗣 Commented on [#1](https://github.com/Timothyoung97/KAZEngine/issues/1) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
 <!--END_SECTION:activity-->
 
 ---
