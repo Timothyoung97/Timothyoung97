@@ -1,4 +1,4 @@
-## 👋 Hello there! I'm Timothy Young
+[![Typing SVG](https://ancient-brook-52981.herokuapp.com?size=24&color=08F77D&background=FF4EFB00&width=550&lines=%F0%9F%91%8B+Hello+there!+I'm+Timothy+Young)](https://git.io/typing-svg)
 
 🎧 _Vibe with me_ 🎺
 
