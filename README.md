@@ -77,6 +77,12 @@ while(!Died) {
 
 ---
 
+<h4><i>Activity</i></h2>
+
+![Tim's Github Activity Graph](https://vast-fjord-48928.herokuapp.com/graph?username=Timothyoung97&theme=chartreuse-dark)
+
+---
+
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
