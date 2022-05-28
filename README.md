@@ -45,7 +45,7 @@ while(!Died) {
 <br />
 <br />
 
-> ### 📕 [Latest Blog Posts](https://dev.to/timothyoung97)
+> ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Git Commands!](https://dev.to/timothyoung97/git-commands-3pkh)
