@@ -79,7 +79,10 @@ while(!Died) {
 
 <h4><i>Activity</i></h2>
 
-![Tim's Github Activity Graph](https://vast-fjord-48928.herokuapp.com/graph?username=Timothyoung97&theme=chartreuse-dark)
+  <p align="center">
+    <code><img align="center" src="https://vast-fjord-48928.herokuapp.com/graph?username=Timothyoung97&theme=chartreuse-dark" /></code>
+    <code><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Timothyoung97&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" /></code>
+  </p>  
 
 ---
 
