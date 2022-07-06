@@ -59,9 +59,9 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14415](https://github.com/ApolloAuto/apollo/issues/14415) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
-2. ❗️ Opened issue [#7](https://github.com/Timothyoung97/KAZEngine/issues/7) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
-3. 🎉 Merged PR [#6](https://github.com/Timothyoung97/KAZEngine/pull/6) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
+1. ❗️ Opened issue [#4](https://github.com/Timothyoung97/Portfolio/issues/4) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
+2. ❗️ Closed issue [#1](https://github.com/Timothyoung97/Portfolio/issues/1) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
+3. 🗣 Commented on [#14415](https://github.com/ApolloAuto/apollo/issues/14415) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
 4. 💪 Opened PR [#6](https://github.com/Timothyoung97/KAZEngine/pull/6) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
 5. 🎉 Merged PR [#5](https://github.com/Timothyoung97/KAZEngine/pull/5) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
 <!--END_SECTION:activity-->
