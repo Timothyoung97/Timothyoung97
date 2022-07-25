@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/201) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-2. ❗️ Closed issue [#5](https://github.com/Timothyoung97/Portfolio/issues/5) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
-3. 🗣 Commented on [#5](https://github.com/Timothyoung97/Portfolio/issues/5) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
-4. ❗️ Opened issue [#5](https://github.com/Timothyoung97/Portfolio/issues/5) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
-5. ❗️ Closed issue [#4](https://github.com/Timothyoung97/Portfolio/issues/4) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
+1. 🗣 Commented on [#202](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/202) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+2. 🗣 Commented on [#201](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/201) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+3. ❗️ Closed issue [#5](https://github.com/Timothyoung97/Portfolio/issues/5) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
+4. 🗣 Commented on [#5](https://github.com/Timothyoung97/Portfolio/issues/5) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
+5. ❗️ Opened issue [#5](https://github.com/Timothyoung97/Portfolio/issues/5) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
 <!--END_SECTION:activity-->
 
 ---
