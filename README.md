@@ -86,6 +86,14 @@ while(!Died) {
 
 ---
 
+<h4><i>Contribution Graph</i></h2>
+
+  <p align="center">
+    <code><img align="center" src="./profile-3d-contrib/profile-night-green.svg" /></code>
+  </p>  
+
+---
+
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
