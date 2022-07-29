@@ -4,7 +4,7 @@
 
 [![Spotify](https://spotify-stats-timothyoung97.vercel.app/api/spotify)](https://open.spotify.com/user/31qd72w5v25ss2gn6tpaoaenqfru)
 
-## 📟 I'm a CS Sophomore @ NUS School of Computing 
+## 📟 I'm an incoming CS Junior @ NUS School of Computing 
 
 ```java
 MatrixObject Me = new Person("Timothy Young", 1997);
@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/Timothyoung97/KAZEngine/issues/7) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
-2. 🎉 Merged PR [#6](https://github.com/Timothyoung97/KAZEngine/pull/6) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
-3. 💪 Opened PR [#6](https://github.com/Timothyoung97/KAZEngine/pull/6) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
-4. 🎉 Merged PR [#5](https://github.com/Timothyoung97/KAZEngine/pull/5) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
-5. 💪 Opened PR [#5](https://github.com/Timothyoung97/KAZEngine/pull/5) in [Timothyoung97/KAZEngine](https://github.com/Timothyoung97/KAZEngine)
+1. 🗣 Commented on [#14415](https://github.com/ApolloAuto/apollo/issues/14415) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
+2. ❗️ Opened issue [#7](https://github.com/Timothyoung97/Portfolio/issues/7) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
+3. ❗️ Closed issue [#4](https://github.com/Timothyoung97/Timothyoung97/issues/4) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
+4. ❗️ Opened issue [#4](https://github.com/Timothyoung97/Timothyoung97/issues/4) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
+5. ❗️ Opened issue [#6](https://github.com/Timothyoung97/Portfolio/issues/6) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
 <!--END_SECTION:activity-->
 
 ---
@@ -80,7 +80,7 @@ while(!Died) {
 <h4><i>Activity</i></h2>
 
   <p align="center">
-    <code><img align="center" src="https://vast-fjord-48928.herokuapp.com/graph?username=Timothyoung97&theme=chartreuse-dark" /></code>
+    <code><img align="center" src="https://gragtimy97.herokuapp.com/graph?username=Timothyoung97&theme=chartreuse-dark" /></code>
     <code><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Timothyoung97&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" /></code>
   </p>  
 
@@ -91,41 +91,41 @@ while(!Died) {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-529%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-544%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 532 Contributions in the Year 2022
+> 🏆 656 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 18 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
-🌆 Daytime    243 commits    ████████░░░░░░░░░░░░░░░░░   32.71% 
-🌃 Evening    188 commits    ██████░░░░░░░░░░░░░░░░░░░   25.3% 
-🌙 Night      234 commits    ███████░░░░░░░░░░░░░░░░░░   31.49%
+🌞 Morning    75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+🌆 Daytime    238 commits    ███████░░░░░░░░░░░░░░░░░░   31.4% 
+🌃 Evening    193 commits    ██████░░░░░░░░░░░░░░░░░░░   25.46% 
+🌙 Night      252 commits    ████████░░░░░░░░░░░░░░░░░   33.25%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       126 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-Tuesday      106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
-Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Thursday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
-Friday       126 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-Saturday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
-Sunday       82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04%
+Monday       123 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
+Tuesday      103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+Wednesday    117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
+Thursday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+Friday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
+Saturday     101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
+Sunday       74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.76%
 
 ```
 
@@ -136,34 +136,35 @@ Sunday       82 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               4 hrs 54 mins       ████████████████████░░░░░   79.78% 
-C++                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
-Lua                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+Markdown                 1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   43.14% 
+JavaScript               59 mins             █████████░░░░░░░░░░░░░░░░   35.91% 
+C++                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+Rust                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 🔥 Editors: 
-VS Code                  5 hrs 29 mins       ██████████████████████░░░   89.24% 
-Visual Studio            39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.76%
+VS Code                  2 hrs 45 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Portfolio                5 hrs 8 mins        █████████████████████░░░░   83.66% 
-KAZEngine                55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
-craftzdog-homepage-master4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+EscapeFromHuaWei         1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   43.14% 
+Portfolio                59 mins             █████████░░░░░░░░░░░░░░░░   35.91% 
+codility                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+rustlings                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+rustlings-1              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%
 
 💻 Operating System: 
-Windows                  6 hrs 9 mins        █████████████████████████   100.0%
+Windows                  2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-C                        3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+C                        3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
@@ -173,7 +174,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/05/2022 18:51:14 UTC
+ Last Updated on 22/07/2022 18:53:15 UTC
 <!--END_SECTION:waka-->
     
 </details>
