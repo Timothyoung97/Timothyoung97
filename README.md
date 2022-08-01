@@ -4,9 +4,9 @@
 
 [![Spotify](https://spotify-stats-timothyoung97.vercel.app/api/spotify)](https://open.spotify.com/user/31qd72w5v25ss2gn6tpaoaenqfru)
 
-## 📟 I'm an incoming CS Junior @ NUS School of Computing 
+## 📟 I'm a penultimate CS undergrad @ NUS School of Computing 
 
-```java
+```cpp
 MatrixObject Me = new Person("Timothy Young", 1997);
 
 while(!Died) {
