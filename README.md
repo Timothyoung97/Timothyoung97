@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14415](https://github.com/ApolloAuto/apollo/issues/14415) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
-2. ❗️ Opened issue [#7](https://github.com/Timothyoung97/Portfolio/issues/7) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
-3. ❗️ Closed issue [#4](https://github.com/Timothyoung97/Timothyoung97/issues/4) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
-4. ❗️ Opened issue [#4](https://github.com/Timothyoung97/Timothyoung97/issues/4) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
-5. ❗️ Opened issue [#6](https://github.com/Timothyoung97/Portfolio/issues/6) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
+1. ❗️ Closed issue [#3](https://github.com/Timothyoung97/Timothyoung97/issues/3) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
+2. 🗣 Commented on [#14415](https://github.com/ApolloAuto/apollo/issues/14415) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
+3. ❗️ Opened issue [#7](https://github.com/Timothyoung97/Portfolio/issues/7) in [Timothyoung97/Portfolio](https://github.com/Timothyoung97/Portfolio)
+4. ❗️ Closed issue [#4](https://github.com/Timothyoung97/Timothyoung97/issues/4) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
+5. ❗️ Opened issue [#4](https://github.com/Timothyoung97/Timothyoung97/issues/4) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
 <!--END_SECTION:activity-->
 
 ---
