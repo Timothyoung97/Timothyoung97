@@ -99,13 +99,13 @@ while(!Died) {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-563%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 725 Contributions in the Year 2022
+> 🏆 726 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -129,10 +129,10 @@ while(!Died) {
 ```text
 Monday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
 Tuesday      115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Wednesday    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
+Wednesday    117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
 Thursday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
 Friday       146 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.39% 
-Saturday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Saturday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
 Sunday       76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57%
 
 ```
@@ -181,7 +181,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 18:58:32 UTC
+ Last Updated on 07/09/2022 18:59:11 UTC
 <!--END_SECTION:waka-->
     
 </details>
