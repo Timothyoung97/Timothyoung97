@@ -99,13 +99,13 @@ while(!Died) {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-551%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 728 Contributions in the Year 2022
+> 🏆 729 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -115,6 +115,48 @@ while(!Died) {
  > 
 > 🔑 18 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
+🌆 Daytime    255 commits    ████████░░░░░░░░░░░░░░░░░   32.2% 
+🌃 Evening    195 commits    ██████░░░░░░░░░░░░░░░░░░░   24.62% 
+🌙 Night      257 commits    ████████░░░░░░░░░░░░░░░░░   32.45%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Tuesday      114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
+Wednesday    118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
+Thursday     109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
+Friday       148 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
+Saturday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
+Sunday       76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.6%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Python                   3 hrs 35 mins       █████████████████████████   100.0%
+
+🔥 Editors: 
+VS Code                  3 hrs 35 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+CS2105-Assignment        3 hrs 35 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      3 hrs 35 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -132,7 +174,7 @@ C#                       2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 18:58:40 UTC
+ Last Updated on 16/09/2022 18:58:19 UTC
 <!--END_SECTION:waka-->
     
 </details>
