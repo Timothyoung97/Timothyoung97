@@ -99,13 +99,13 @@ while(!Died) {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-551%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 729 Contributions in the Year 2022
+> 🏆 730 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -132,8 +132,8 @@ Tuesday      114 commits    ███░░░░░░░░░░░░░░�
 Wednesday    118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
 Thursday     109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
 Friday       148 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
-Saturday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
-Sunday       76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.6%
+Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Sunday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47%
 
 ```
 
@@ -174,7 +174,7 @@ C#                       2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2022 18:58:19 UTC
+ Last Updated on 17/09/2022 18:52:48 UTC
 <!--END_SECTION:waka-->
     
 </details>
