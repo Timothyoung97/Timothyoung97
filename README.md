@@ -97,15 +97,15 @@ while(!Died) {
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 751 Contributions in the Year 2022
+> 🏆 754 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -132,7 +132,7 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 19:02:23 UTC
+ Last Updated on 27/09/2022 19:08:09 UTC
 <!--END_SECTION:waka-->
     
 </details>
