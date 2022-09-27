@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#220](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/220) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-2. 🗣 Commented on [#214](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/214) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-3. 💪 Opened PR [#14585](https://github.com/ApolloAuto/apollo/pull/14585) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
-4. ❌ Closed PR [#14583](https://github.com/ApolloAuto/apollo/pull/14583) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
-5. 🗣 Commented on [#14583](https://github.com/ApolloAuto/apollo/issues/14583) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
+1. 🗣 Commented on [#220](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/220) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+2. 💪 Opened PR [#220](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/220) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+3. 🗣 Commented on [#214](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/214) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+4. 💪 Opened PR [#14585](https://github.com/ApolloAuto/apollo/pull/14585) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
+5. ❌ Closed PR [#14583](https://github.com/ApolloAuto/apollo/pull/14583) in [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
 <!--END_SECTION:activity-->
 
 ---
