@@ -97,15 +97,15 @@ while(!Died) {
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 754 Contributions in the Year 2022
+> 🏆 742 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -113,8 +113,55 @@ while(!Died) {
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 18 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
+🌆 Daytime    253 commits    ████████░░░░░░░░░░░░░░░░░   32.31% 
+🌃 Evening    196 commits    ██████░░░░░░░░░░░░░░░░░░░   25.03% 
+🌙 Night      257 commits    ████████░░░░░░░░░░░░░░░░░   32.82%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+Tuesday      117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
+Wednesday    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
+Thursday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+Friday       140 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.88% 
+Saturday     109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
+Sunday       76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.71%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+C#                       13 hrs 13 mins      ███████████████████████░░   91.76% 
+Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+
+🔥 Editors: 
+VS Code                  14 hrs 24 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Doodles                  13 hrs 17 mins      ███████████████████████░░   92.32% 
+CV_Projects              1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
+StopHuaWastingMyTime     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+
+💻 Operating System: 
+Mac                      14 hrs 24 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -132,7 +179,7 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/09/2022 19:08:09 UTC
+ Last Updated on 29/09/2022 19:01:14 UTC
 <!--END_SECTION:waka-->
     
 </details>
