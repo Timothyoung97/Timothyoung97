@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#300](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/300) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-2. 🗣 Commented on [#301](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/301) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-3. 🗣 Commented on [#302](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/302) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-4. 🗣 Commented on [#303](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/303) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-5. 🎉 Merged PR [#304](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/304) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+1. ❗️ Closed issue [#300](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/300) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+2. ❗️ Closed issue [#301](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/301) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+3. 🗣 Commented on [#300](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/300) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+4. 🗣 Commented on [#301](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/301) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+5. 🗣 Commented on [#302](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/302) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
 <!--END_SECTION:activity-->
 
 ---
