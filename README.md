@@ -99,13 +99,13 @@ while(!Died) {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 908 Contributions in the Year 2022
+> 🏆 910 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -144,19 +144,19 @@ Sunday       102 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C#                       4 hrs 27 mins       ███████████████████████░░   95.14% 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+C#                       3 hrs 59 mins       ████████████████████████░   99.09% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  4 hrs 41 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 1 min         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Doodles                  4 hrs 39 mins       ████████████████████████░   99.28% 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+Doodles                  3 hrs 59 mins       ████████████████████████░   99.16% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 💻 Operating System: 
-Mac                      4 hrs 41 mins       █████████████████████████   100.0%
+Mac                      4 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
@@ -177,7 +177,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/10/2022 19:29:09 UTC
+ Last Updated on 26/10/2022 18:55:13 UTC
 <!--END_SECTION:waka-->
     
 </details>
