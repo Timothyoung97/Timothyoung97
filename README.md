@@ -97,15 +97,15 @@ while(!Died) {
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 917 Contributions in the Year 2022
+> 🏆 918 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -144,18 +144,18 @@ Sunday       102 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C#                       2 hrs 30 mins       ████████████████████████░   98.66% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+C#                       2 hrs 43 mins       ████████████████████████░   98.77% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 45 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Doodles                  2 hrs 30 mins       ████████████████████████░   98.66% 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+Doodles                  2 hrs 43 mins       ████████████████████████░   98.77% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       █████████████████████████   100.0%
+Mac                      2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -176,7 +176,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2022 18:58:32 UTC
+ Last Updated on 28/10/2022 18:53:04 UTC
 <!--END_SECTION:waka-->
     
 </details>
