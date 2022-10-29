@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#346](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/346) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-2. ❗️ Closed issue [#341](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/341) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-3. 🎉 Merged PR [#345](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/345) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-4. 💪 Opened PR [#345](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/345) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-5. ❌ Closed PR [#342](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/342) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+1. 🎉 Merged PR [#346](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/346) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+2. 💪 Opened PR [#346](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/346) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+3. ❗️ Closed issue [#341](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/341) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+4. 🎉 Merged PR [#345](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/345) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+5. 💪 Opened PR [#345](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/345) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
 <!--END_SECTION:activity-->
 
 ---
