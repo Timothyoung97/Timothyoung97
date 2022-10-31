@@ -97,7 +97,7 @@ while(!Died) {
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -105,7 +105,7 @@ while(!Died) {
 
 **🐱 My GitHub Data** 
 
-> 🏆 927 Contributions in the Year 2022
+> 🏆 928 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -144,17 +144,19 @@ Sunday       101 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C#                       1 hr 54 mins        █████████████████████████   99.97% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+C#                       5 hrs 27 mins       █████████████████████████   99.81% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.0%
+VS Code                  5 hrs 27 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Doodles                  1 hr 54 mins        █████████████████████████   100.0%
+Doodles                  5 hrs 27 mins       █████████████████████████   99.82% 
+StopHuaWastingMyTime     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 💻 Operating System: 
-Mac                      1 hr 54 mins        █████████████████████████   100.0%
+Mac                      5 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
@@ -175,7 +177,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2022 18:51:53 UTC
+ Last Updated on 31/10/2022 18:56:05 UTC
 <!--END_SECTION:waka-->
     
 </details>
