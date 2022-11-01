@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#347](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/347) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-2. 🗣 Commented on [#347](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/347) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+1. 💪 Opened PR [#352](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/352) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+2. 🎉 Merged PR [#347](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/347) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
 3. 🗣 Commented on [#347](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/347) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-4. 💪 Opened PR [#347](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/347) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-5. 🎉 Merged PR [#346](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/346) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+4. 🗣 Commented on [#347](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/347) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+5. 💪 Opened PR [#347](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/347) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
 <!--END_SECTION:activity-->
 
 ---
