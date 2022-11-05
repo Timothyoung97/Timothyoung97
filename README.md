@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#366](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/366) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-2. 🎉 Merged PR [#350](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/350) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-3. 🎉 Merged PR [#354](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/354) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-4. 💪 Opened PR [#354](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/354) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-5. 🗣 Commented on [#352](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/352) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+1. 🗣 Commented on [#366](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/366) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+2. 💪 Opened PR [#366](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/366) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+3. 🎉 Merged PR [#350](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/350) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+4. 🎉 Merged PR [#354](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/354) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+5. 💪 Opened PR [#354](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/354) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
 <!--END_SECTION:activity-->
 
 ---
