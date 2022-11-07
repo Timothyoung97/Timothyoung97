@@ -59,11 +59,11 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#386](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/386) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-2. 🗣 Commented on [#386](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/386) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-3. 🎉 Merged PR [#402](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/402) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-4. 💪 Opened PR [#402](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/402) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
-5. 🎉 Merged PR [#399](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/399) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+1. 💪 Opened PR [#403](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/403) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+2. ❗️ Closed issue [#386](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/386) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+3. 🗣 Commented on [#386](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/386) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+4. 🎉 Merged PR [#402](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/402) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+5. 💪 Opened PR [#402](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/402) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
 <!--END_SECTION:activity-->
 
 ---
