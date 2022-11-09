@@ -97,15 +97,15 @@ while(!Died) {
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,025 Contributions in the Year 2022
+> 🏆 1,026 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -115,53 +115,6 @@ while(!Died) {
  > 
 > 🔑 16 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
-🌆 Daytime    245 commits    ███████░░░░░░░░░░░░░░░░░░   31.33% 
-🌃 Evening    210 commits    ██████░░░░░░░░░░░░░░░░░░░   26.85% 
-🌙 Night      254 commits    ████████░░░░░░░░░░░░░░░░░   32.48%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       125 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
-Tuesday      120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
-Wednesday    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Thursday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
-Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-Saturday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-Sunday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.89%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-C#                       4 hrs 35 mins       ██████████████████████░░░   88.06% 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
-
-🔥 Editors: 
-VS Code                  5 hrs 12 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Doodles                  5 hrs 5 mins        ████████████████████████░   97.66% 
-ThumbCreator             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-CS2105-Assignment        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
-
-💻 Operating System: 
-Mac                      5 hrs 12 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -179,7 +132,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 19:01:06 UTC
+ Last Updated on 09/11/2022 18:52:35 UTC
 <!--END_SECTION:waka-->
     
 </details>
