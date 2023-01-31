@@ -97,7 +97,7 @@ while(!Died) {
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,7 +105,7 @@ while(!Died) {
 
 **🐱 My GitHub Data** 
 
-> 🏆 23 Contributions in the Year 2023
+> 🏆 24 Contributions in the Year 2023
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -144,16 +144,16 @@ Sunday       82 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CS3211-Parallel-Concurren2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -174,7 +174,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2023 18:45:22 UTC
+ Last Updated on 31/01/2023 18:45:03 UTC
 <!--END_SECTION:waka-->
     
 </details>
