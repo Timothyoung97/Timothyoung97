@@ -97,7 +97,7 @@ while(!Died) {
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,7 +105,7 @@ while(!Died) {
 
 **🐱 My GitHub Data** 
 
-> 🏆 24 Contributions in the Year 2023
+> 🏆 25 Contributions in the Year 2023
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -144,16 +144,16 @@ Sunday       82 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C++                      2 mins              █████████████████████████   100.0%
+C++                      40 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+VS Code                  40 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-CS3211-Parallel-Concurren2 mins              █████████████████████████   100.0%
+CS3211-Parallel-Concurren40 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.0%
+Mac                      40 mins             █████████████████████████   100.0%
 
 ```
 
@@ -174,7 +174,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 18:45:03 UTC
+ Last Updated on 01/02/2023 18:46:03 UTC
 <!--END_SECTION:waka-->
     
 </details>
