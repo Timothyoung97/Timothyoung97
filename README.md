@@ -59,7 +59,7 @@ while(!Died) {
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#406](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/406) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
+1. ❗️ Opened issue [#6](https://github.com/Timothyoung97/Timothyoung97/issues/6) in [Timothyoung97/Timothyoung97](https://github.com/Timothyoung97/Timothyoung97)
 2. 💪 Opened PR [#406](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/406) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
 3. 💪 Opened PR [#403](https://github.com/CS3247-Game-Development-Team-6/Doodles/pull/403) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
 4. ❗️ Closed issue [#386](https://github.com/CS3247-Game-Development-Team-6/Doodles/issues/386) in [CS3247-Game-Development-Team-6/Doodles](https://github.com/CS3247-Game-Development-Team-6/Doodles)
