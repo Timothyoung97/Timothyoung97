@@ -1,9 +1,3 @@
-[![Typing SVG](https://ancient-brook-52981.herokuapp.com?size=24&color=08F77D&background=FF4EFB00&width=550&lines=%F0%9F%91%8B+Hello+there!+I'm+Timothy+Young)](https://git.io/typing-svg)
-
-🎧 _Vibe with me_ 🎺
-
-[![Spotify](https://spotify-stats-timothyoung97.vercel.app/api/spotify)](https://open.spotify.com/user/31qd72w5v25ss2gn6tpaoaenqfru)
-
 ## 📟 I'm a penultimate CS undergrad @ NUS School of Computing 
 
 ```cpp
@@ -19,6 +13,10 @@ while(!Died) {
     Me.Sleep();
 }
 ```
+🎧 _Vibe with me_ 🎺
+
+[![Spotify](https://spotify-stats-timothyoung97.vercel.app/api/spotify)](https://open.spotify.com/user/31qd72w5v25ss2gn6tpaoaenqfru)
+
 
 > ### 🤝🏼 Connect with me:
 
@@ -26,21 +24,6 @@ while(!Died) {
 [<img align="left" alt="Timothyoung | Twitter" width="22px" src="public\twitter.png" />][twitter]
 [<img align="left" alt="Timothyoung | Email" width="22px" src="public\email.png" />][email]
 [<img align="left" alt="Timothyoung | Facebook" width="22px" src="public\facebook.png" />][facebook]
-
-<br />
-<br />
-
-> ### ⚒️ Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="Unity Engine" width="26px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/unity_icon_136074.png" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
-<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
@@ -80,7 +63,6 @@ while(!Died) {
 <h4><i>Activity</i></h2>
 
   <p align="center">
-    <code><img align="center" src="https://gragtimy97.herokuapp.com/graph?username=Timothyoung97&theme=chartreuse-dark" /></code>
     <code><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Timothyoung97&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" /></code>
   </p>  
 
