@@ -2,16 +2,6 @@
 
 ```cpp
 MatrixObject Me = new Person("Timothy Young", 1997);
-
-while(!Died) {
-    Me.Eat("Fast Food");                //  I love a burger with a well grilled patty 🍔
-    Me.Drink("Coffee");                 //  Drink for fun, not to stay awake 🤡
-    Me.Code("C#", "Python", "Java")     //  Plus debugging 😭
-    Me.Learn("GameDev 🎮", "WebDev 🌐", "AI/ML 🤖");  //   More to come hehe ... 👨🏻‍💻 
-    Me.Play("Cyberpunk 2077 🌆");                      //   Still buggy, but it's cool      m̸̛̫̤̮̙͈̘̼͔͎̮̺̀̉͊̍́͐́̄̇̍͛́̈́̿̏̓̃̑̋̚͜͜ͅá̵̳̜̦͙̥̜̼̬̙̭̘̈́̿̑́̿͆͐̀ͅͅt̶̡̛̬̦͙̻͉͔̺͗̉̀͐̓̍̊̾̌̈̀̍̀̒͛̒͝͝ͅr̸̡̧̦̘̖̬͇̮̺̿̏͌̃̾̍͜͝i̸̡̯̦̹̫͚̗̟̗͕̿̂́̌̑̆̈́̐͂͊̅́͒̑͝͝x̴̤̮̰̥̦̗͛
-    Me.Fantasize("AKIRA 🏍️");                          //   Movie adaptation != Comics ⚠️
-    Me.Sleep();
-}
 ```
 🎧 _Vibe with me_ 🎺
 
