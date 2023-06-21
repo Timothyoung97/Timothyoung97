@@ -69,9 +69,9 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.6%20million%20lines%20of%20code-blue)
 
@@ -79,7 +79,7 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 247 Contributions in the Year 2023
+> 🏆 248 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -91,19 +91,19 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 
 ```text
 🌞 Morning                279 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-🌆 Daytime                2608 commits        █████████░░░░░░░░░░░░░░░░   37.24 % 
+🌆 Daytime                2608 commits        █████████░░░░░░░░░░░░░░░░   37.23 % 
 🌃 Evening                2521 commits        █████████░░░░░░░░░░░░░░░░   35.99 % 
-🌙 Night                  1596 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+🌙 Night                  1597 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   795 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 Tuesday                  1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Wednesday                897 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Wednesday                898 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 Thursday                 479 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Friday                   1128 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 1481 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Friday                   1128 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Saturday                 1481 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 Sunday                   1010 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 ```
 
@@ -114,16 +114,19 @@ Sunday                   1010 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 27 mins        ██████████████████████░░░   88.81 % 
+JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Portfolio                1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -143,7 +146,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2023 18:36:35 UTC
+ Last Updated on 21/06/2023 18:36:31 UTC
 <!--END_SECTION:waka-->
     
 </details>
