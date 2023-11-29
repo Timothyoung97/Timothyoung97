@@ -1,4 +1,4 @@
-## 📟 I'm a penultimate CS undergrad @ NUS School of Computing 
+## 📟 I'm a Final Year CS undergrad @ NUS School of Computing 
 
 ```cpp
 MatrixObject Me = new Person("Timothy Young", 1997);
