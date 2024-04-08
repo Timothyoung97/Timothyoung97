@@ -32,11 +32,11 @@ MatrixObject Me = new Person("Timothy Young", 1997);
   <h4><i>Recent Activities</i></h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4#issuecomment-2041940003) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
-2. 🗣 Commented on [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4#issuecomment-2041929222) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
-3. 🗣 Commented on [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4#issuecomment-2041928380) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
-4. 🗣 Commented on [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4#issuecomment-2041919137) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
-5. ❗ Opened issue [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
+1. 🗣 Commented on [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4#issuecomment-2041963173) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
+2. 🗣 Commented on [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4#issuecomment-2041960836) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
+3. 🗣 Commented on [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4#issuecomment-2041959957) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
+4. 🗣 Commented on [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4#issuecomment-2041958849) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
+5. 🗣 Commented on [#4](https://github.com/Timothyoung97/RenderingEngine/issues/4#issuecomment-2041955611) in [Timothyoung97/RenderingEngine](https://github.com/Timothyoung97/RenderingEngine)
 <!--END_SECTION:activity-->
 
 ---
