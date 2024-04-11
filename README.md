@@ -69,8 +69,6 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2020%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.9%20million%20lines%20of%20code-blue)
@@ -85,46 +83,6 @@ MatrixObject Me = new Person("Timothy Young", 1997);
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4650 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-🌆 Daytime                17712 commits       █████████████░░░░░░░░░░░░   53.27 % 
-🌃 Evening                7784 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-🌙 Night                  3102 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   6004 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Tuesday                  5064 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Wednesday                6161 commits        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Thursday                 5141 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Friday                   3227 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Saturday                 5420 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Sunday                   2231 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-C++                      1 hr 28 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-cs3203-spa [GitHub]      1 hr 28 mins        █████████████████████████   99.72 % 
-23s2-cp-spa-team-17      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-💻 Operating System: 
-Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -142,7 +100,7 @@ HLSL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 19:01:52 UTC
+ Last Updated on 11/04/2024 18:37:37 UTC
 <!--END_SECTION:waka-->
     
 </details>
