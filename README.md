@@ -71,13 +71,15 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 909 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,7 +93,7 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 🌞 Morning                3852 commits        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
 🌆 Daytime                10589 commits       ███████████████░░░░░░░░░░   58.91 % 
 🌃 Evening                2475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-🌙 Night                  1059 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+🌙 Night                  1060 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -100,7 +102,7 @@ Monday                   4055 commits        ██████░░░░░�
 Tuesday                  3360 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
 Wednesday                3635 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 Thursday                 3424 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Friday                   2534 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Friday                   2535 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 Saturday                 374 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 Sunday                   593 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
@@ -141,7 +143,7 @@ HLSL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2024 18:46:04 UTC
+ Last Updated on 25/10/2024 18:45:28 UTC
 <!--END_SECTION:waka-->
     
 </details>
