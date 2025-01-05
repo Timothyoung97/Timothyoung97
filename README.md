@@ -71,13 +71,15 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,7 +93,7 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 🌞 Morning                3852 commits        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
 🌆 Daytime                10589 commits       ███████████████░░░░░░░░░░   58.67 % 
 🌃 Evening                2475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-🌙 Night                  1131 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+🌙 Night                  1132 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -102,7 +104,7 @@ Wednesday                3645 commits        █████░░░░░░�
 Thursday                 3434 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 Friday                   2545 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 Saturday                 385 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Sunday                   603 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Sunday                   604 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 
 
@@ -141,7 +143,7 @@ HLSL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2025 18:44:24 UTC
+ Last Updated on 05/01/2025 18:42:50 UTC
 <!--END_SECTION:waka-->
     
 </details>
