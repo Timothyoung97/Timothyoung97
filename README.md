@@ -69,6 +69,8 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2036%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
@@ -77,14 +79,51 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3852 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+🌆 Daytime                10589 commits       ███████████████░░░░░░░░░░   58.11 % 
+🌃 Evening                2475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+🌙 Night                  1306 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   4091 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Tuesday                  3395 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Wednesday                3669 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Thursday                 3458 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Friday                   2570 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Saturday                 410 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Sunday                   629 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -102,7 +141,7 @@ HLSL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:52:14 UTC
+ Last Updated on 02/07/2025 18:52:51 UTC
 <!--END_SECTION:waka-->
     
 </details>
