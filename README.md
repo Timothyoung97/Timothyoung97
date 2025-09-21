@@ -69,6 +69,8 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 <h4><i>Wakatime Stats</i></h2>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2036%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
@@ -77,7 +79,7 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 256 Contributions in the Year 2025
+> 🏆 257 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -85,6 +87,45 @@ MatrixObject Me = new Person("Timothy Young", 1997);
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3852 commits        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌆 Daytime                10589 commits       ██████████████░░░░░░░░░░░   57.86 % 
+🌃 Evening                2475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+🌙 Night                  1385 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   4102 commits        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Tuesday                  3404 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Wednesday                3680 commits        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Thursday                 3470 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Friday                   2582 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Saturday                 422 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Sunday                   641 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -102,7 +143,7 @@ HLSL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 18:43:34 UTC
+ Last Updated on 21/09/2025 18:45:14 UTC
 <!--END_SECTION:waka-->
     
 </details>
