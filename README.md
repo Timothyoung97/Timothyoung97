@@ -71,7 +71,7 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
@@ -79,7 +79,7 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 335 Contributions in the Year 2025
+> 🏆 336 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -93,7 +93,7 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 🌞 Morning                3852 commits        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
 🌆 Daytime                10589 commits       ██████████████░░░░░░░░░░░   57.61 % 
 🌃 Evening                2475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-🌙 Night                  1463 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+🌙 Night                  1464 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -102,7 +102,7 @@ Monday                   4114 commits        ██████░░░░░�
 Tuesday                  3416 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
 Wednesday                3692 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 Thursday                 3481 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Friday                   2593 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Friday                   2594 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 Saturday                 432 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 Sunday                   651 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
@@ -143,7 +143,7 @@ HLSL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 18:58:13 UTC
+ Last Updated on 12/12/2025 18:56:01 UTC
 <!--END_SECTION:waka-->
     
 </details>
