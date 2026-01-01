@@ -73,13 +73,13 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.45%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 355 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,10 +90,10 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3852 commits        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+🌞 Morning                3852 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 🌆 Daytime                10589 commits       ██████████████░░░░░░░░░░░   57.55 % 
 🌃 Evening                2475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-🌙 Night                  1483 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+🌙 Night                  1484 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -101,7 +101,7 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 Monday                   4117 commits        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 Tuesday                  3419 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 Wednesday                3695 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Thursday                 3483 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Thursday                 3484 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
 Friday                   2596 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 Saturday                 435 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 Sunday                   654 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
@@ -143,7 +143,7 @@ HLSL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:53:36 UTC
+ Last Updated on 01/01/2026 18:54:46 UTC
 <!--END_SECTION:waka-->
     
 </details>
