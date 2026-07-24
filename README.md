@@ -77,7 +77,7 @@ MatrixObject Me = new Person("Timothy Young", 1997);
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 198 Contributions in the Year 2026
+> 🏆 199 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,45 +85,6 @@ MatrixObject Me = new Person("Timothy Young", 1997);
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3852 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌆 Daytime                10589 commits       ██████████████░░░░░░░░░░░   56.94 % 
-🌃 Evening                2475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-🌙 Night                  1682 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4146 commits        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Tuesday                  3445 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Wednesday                3724 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Thursday                 3513 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Friday                   2624 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Saturday                 464 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Sunday                   682 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -141,7 +102,7 @@ HLSL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Timothyoung97/Timothyoung97/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:57:57 UTC
+ Last Updated on 24/07/2026 19:57:41 UTC
 <!--END_SECTION:waka-->
     
 </details>
